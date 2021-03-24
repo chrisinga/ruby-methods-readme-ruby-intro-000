@@ -2,4 +2,4 @@ def greeting
   puts "Hello World"
 end
 
- greeting
+ruby greeting.rb#!/usr/bin/env ruby -wKU
